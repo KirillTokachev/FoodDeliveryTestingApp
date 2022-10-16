@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodDeliveryTestingApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city">Москва</string>
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="desserts">Десерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="bottomNavMenuTitle">Mеню</string>
+    <string name="bottomNavProfileTitle">Профиль</string>
+    <string name="bottomNavBasketTitle">Корзина</string>
+</resources>

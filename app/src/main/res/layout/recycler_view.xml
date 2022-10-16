@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="16dp"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/pizzaBt"
+        android:layout_width="88dp"
+        android:layout_height="32dp"
+        android:text="@string/pizza"
+        style="@style/CategoryButtonStyle"/>
+
+    <Button
+        android:id="@+id/comboBt"
+        android:layout_width="88dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/combo"
+        style="@style/CategoryButtonStyle"/>
+
+    <Button
+        android:id="@+id/dessertsBt"
+        android:layout_width="88dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/desserts"
+        style="@style/CategoryButtonStyle"/>
+
+    <Button
+        android:id="@+id/drinksBt"
+        android:layout_width="88dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/drinks"
+        style="@style/CategoryButtonStyle"/>
+
+</LinearLayout>
